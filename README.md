@@ -43,4 +43,4 @@ Please structure your report as follows.
 (a)	Short introduction. No more than a few sentences introducing the dataset and the problems that you seek to solve using it.
 (b)	Analysis. Present an analysis of the data, including any visualizations, that address the questions (a)-(h), above. This should be broken down in to analysing when, where, and under what conditions accidents happen, as per the questions above.
 (c)	Predictions. This should be a working model to address point (i), above, that can predict the conditions under which accidents are most likely to occur in, and the severity of injuries sustained given the conditions they happen under.
-(d)	Recommendations. What recommendations can be made to government agencies based on this data and your analysis to improve safety? Keep this to your top 4 or 5 bullet points. 
+(d)	Recommendations. What recommendations can be made to government agencies based on this data and your analysis to improve safety? Keep this to your top 4 or 5 bullet points.
